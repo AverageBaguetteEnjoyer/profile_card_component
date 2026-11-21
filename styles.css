@@ -15,8 +15,9 @@
 }
 
 body {
-    background: url("./images/bg-pattern-top.svg") top 35vh left 50vw no-repeat fixed,
-    url("./images/bg-pattern-bottom.svg") bottom 35vh right 50vw no-repeat fixed,
+    background:
+    url("./images/bg-pattern-top.svg") right 52vw bottom 35vh no-repeat fixed,
+    url("./images/bg-pattern-bottom.svg") left 48vw top 52vh no-repeat fixed,
     var(--bg-body);
     font-family: var(--font-family);
 }
