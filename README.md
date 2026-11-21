@@ -17,8 +17,8 @@ Desktop view (1920px wide)
 
 ## Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://www.frontendmentor.io/solutions/profile-card-component-p_yG6-RUTA
+- Live Site URL: https://profile-card-abe.netlify.app
 
 ## Author
 
